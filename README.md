@@ -27,9 +27,12 @@ Hi 👋, I'm Pierre, I'm a French student in computer science at the University 
 
 # 🧰 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="JAVA" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="jetbrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />   
 <img align="left" alt="vs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
@@ -41,14 +44,16 @@ Hi 👋, I'm Pierre, I'm a French student in computer science at the University 
 <br/>
           
 # 📊 Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pierrafrom&count_private=true&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierrafrom&theme=tokyonight"/>
-</p></br>
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/Pierrafrom">
+      <img alt="Pierrafrom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierrafrom&theme=tokyonight&hide_border=true"/>
+    </a>
+  </p>
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrafrom&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+  <h3>💻 GitHub Profile Stats</h3>
 
-</p>
+  <a href="https://github.com/Pierrafrom"><img alt="Pierrafrom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pierrafrom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/Pierrafrom"><img alt="Pierrafrom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrafrom&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
