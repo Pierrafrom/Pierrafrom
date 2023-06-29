@@ -16,7 +16,7 @@ Hi 👋, I'm Pierre, I'm a French student in computer science at the University 
 <a href="https://github.com/Pierrafrom" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Instagram" target="_blank">
+<a href="https://www.instagram.com/pierrafrom/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 <a href="mailto:pierrefromont@outlook.fr" target="_blank" >
