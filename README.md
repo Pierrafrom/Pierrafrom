@@ -35,7 +35,7 @@ I'm an engineering student specializing in **Software Development**, **Data anal
 <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/Pierrafrom">
-      <img alt="Pierrafrom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierrafrom&theme=tokyonight&hide_border=true"/>
+      <img alt="Pierrafrom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierrafrom&theme=dracula&hide_border=true"/>
     </a>
   </p>
 
@@ -43,8 +43,8 @@ I'm an engineering student specializing in **Software Development**, **Data anal
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrafrom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pierrafrom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrafrom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrafrom&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrafrom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pierrafrom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrafrom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrafrom&langs_count=8&layout=compact&theme=dracula&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 </details>
