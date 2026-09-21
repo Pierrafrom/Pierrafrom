@@ -25,9 +25,9 @@ logiciel), anywhere in the EU, starting February 2027.**
 | [rag-maze-runner](https://github.com/Pierrafrom/rag-maze-runner) | Advanced RAG in French — hybrid retrieval (RRF), FlashRank re-ranking, CRAG + Self-RAG anti-hallucination, RAGAS evaluation, Streamlit UI, Dockerized |
 | [bi-platform](https://github.com/Pierrafrom/bi-platform) | Snowflake data warehouse + dbt + Airflow + Power BI, built with a data-consulting firm supervising the project |
 | [wine-quality](https://github.com/Pierrafrom/wine-quality) | Data science project: EDA, PCA/clustering, and regression modeling to find what drives wine quality |
-| [lanterne](https://github.com/Pierrafrom/lanterne) | Self-hosted Telegram bot — scrapes 7 sources, LLM-structured extraction, natural-language Q&A over the data (personal project, in progress) |
 | [BGES](https://github.com/volkoffff/BGES) | PySpark pipeline for greenhouse-gas accounting data (private repo — majority contributor, not the owner) |
 | [PizzaHome](https://github.com/Pierrafrom/PizzaHome) | Customer-facing side of a 3-app + shared-database pizzeria system (PHP, MySQL) |
+| [HiveGame](https://github.com/Pierrafrom/HiveGame) | The board game Hive in C++, CLI + Qt GUI, MVC/Factory/Strategy design patterns |
 
 *(These are also set as my GitHub pinned repositories.)*
 
