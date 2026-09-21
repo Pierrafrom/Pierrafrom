@@ -3,13 +3,13 @@
 # 👋 Hi, I'm Pierre
 
 Engineering student at [UTC](https://www.utc.fr/) (Université de technologie
-de Compiègne), part of Sorbonne Université, France — currently on exchange
+de Compiègne), part of Sorbonne Université, France, currently on exchange
 at Mälardalen University, Sweden. Focused on **data engineering**, with a
 broader base in AI, data science, data architecture, and full-stack
 development.
 
 I'm always curious about how to get more out of AI tools while keeping the
-results actually aligned with what I intend — I use Claude and Claude Code
+results actually aligned with what I intend. I use Claude and Claude Code
 daily, and maintain a public
 [claude-code-config](https://github.com/Pierrafrom/claude-code-config), my
 personal configuration that keeps evolving with whatever project I'm
@@ -22,10 +22,10 @@ logiciel), anywhere in the EU, starting February 2027.**
 
 | Project | What it is |
 |---|---|
-| [rag-maze-runner](https://github.com/Pierrafrom/rag-maze-runner) | Advanced RAG in French — hybrid retrieval (RRF), FlashRank re-ranking, CRAG + Self-RAG anti-hallucination, RAGAS evaluation, Streamlit UI, Dockerized |
+| [rag-maze-runner](https://github.com/Pierrafrom/rag-maze-runner) | Advanced RAG in French: hybrid retrieval (RRF), FlashRank re-ranking, CRAG + Self-RAG anti-hallucination, RAGAS evaluation, Streamlit UI, Dockerized |
 | [bi-platform](https://github.com/Pierrafrom/bi-platform) | Snowflake data warehouse + dbt + Airflow + Power BI, built with a data-consulting firm supervising the project |
 | [wine-quality](https://github.com/Pierrafrom/wine-quality) | Data science project: EDA, PCA/clustering, and regression modeling to find what drives wine quality |
-| [BGES](https://github.com/volkoffff/BGES) | PySpark pipeline for greenhouse-gas accounting data (private repo — majority contributor, not the owner) |
+| [BGES](https://github.com/volkoffff/BGES) | PySpark pipeline for greenhouse-gas accounting data (private repo, majority contributor, not the owner) |
 | [PizzaHome](https://github.com/Pierrafrom/PizzaHome) | Customer-facing side of a 3-app + shared-database pizzeria system (PHP, MySQL) |
 | [HiveGame](https://github.com/Pierrafrom/HiveGame) | The board game Hive in C++, CLI + Qt GUI, MVC/Factory/Strategy design patterns |
 
@@ -48,7 +48,7 @@ logiciel), anywhere in the EU, starting February 2027.**
 <details>
 <summary>Also comfortable with, from coursework and side projects</summary>
 
-Next.js, React, Node.js, PHP, C#, Qt — see individual repos for where each
+Next.js, React, Node.js, PHP, C#, Qt. See individual repos for where each
 one was actually used.
 
 </details>
