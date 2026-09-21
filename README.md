@@ -67,7 +67,4 @@ one was actually used.
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrafrom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pierrafrom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pierrafrom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrafrom&langs_count=8&layout=compact&theme=dracula&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
 </details>
