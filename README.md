@@ -22,19 +22,19 @@ logiciel), anywhere in the EU, starting February 2027.**
 
 | Project | What it is |
 |---|---|
+| [rag-maze-runner](https://github.com/Pierrafrom/rag-maze-runner) | Advanced RAG in French — hybrid retrieval (RRF), FlashRank re-ranking, CRAG + Self-RAG anti-hallucination, RAGAS evaluation, Streamlit UI, Dockerized |
 | [bi-platform](https://github.com/Pierrafrom/bi-platform) | Snowflake data warehouse + dbt + Airflow + Power BI, built with a data-consulting firm supervising the project |
 | [wine-quality](https://github.com/Pierrafrom/wine-quality) | Data science project: EDA, PCA/clustering, and regression modeling to find what drives wine quality |
 | [lanterne](https://github.com/Pierrafrom/lanterne) | Self-hosted Telegram bot — scrapes 7 sources, LLM-structured extraction, natural-language Q&A over the data (personal project, in progress) |
 | [BGES](https://github.com/volkoffff/BGES) | PySpark pipeline for greenhouse-gas accounting data (private repo — majority contributor, not the owner) |
 | [PizzaHome](https://github.com/Pierrafrom/PizzaHome) | Customer-facing side of a 3-app + shared-database pizzeria system (PHP, MySQL) |
-| [HiveGame](https://github.com/Pierrafrom/HiveGame) | The board game Hive in C++, CLI + Qt GUI, MVC/Factory/Strategy design patterns |
 
 *(These are also set as my GitHub pinned repositories.)*
 
 ## 🛠️ Stack
 
 **Data & ML**
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff)](#) [![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)](#) [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#) [![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff)](#) [![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)](#) [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#) [![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=fff)](#)
 
 **Databases (open source)**
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
