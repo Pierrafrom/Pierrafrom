@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=004687&fontColor=e4e4e4&height=250&section=header&text=Pierre%20Fromont%20Boissel&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineering%20Student&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=004687&fontColor=e4e4e4&height=250&section=header&text=Pierre%20Fromont%20Boissel&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Data%20and%20AI%20Engineering%20Student&descAlignY=51&descAlign=62)
 
 # 👋 Hi, I'm Pierre
 
