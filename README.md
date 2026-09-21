@@ -2,12 +2,21 @@
 
 # 👋 Hi, I'm Pierre
 
-Computer science engineering student focused on **data engineering** and
-**AI**. I like taking a project from "here's a pile of raw data / a vague
-brief" to something that actually runs and holds up — data pipelines,
-ML models, and the tooling around them.
+Engineering student at [UTC](https://www.utc.fr/) (Université de technologie
+de Compiègne), part of Sorbonne Université, France — currently on exchange
+at Mälardalen University, Sweden. Focused on **data engineering**, with a
+broader base in AI, data science, data architecture, and full-stack
+development.
 
-🔭 **Currently looking for a Data / AI internship.**
+I'm always curious about how to get more out of AI tools while keeping the
+results actually aligned with what I intend — I use Claude and Claude Code
+daily, and maintain a public
+[claude-code-config](https://github.com/Pierrafrom/claude-code-config), my
+personal configuration that keeps evolving with whatever project I'm
+working on.
+
+🔭 **Looking for a Data / AI internship at a software publisher (éditeur de
+logiciel), anywhere in the EU, starting February 2027.**
 
 ## 📌 Featured projects
 
@@ -25,7 +34,10 @@ ML models, and the tooling around them.
 ## 🛠️ Stack
 
 **Data & ML**
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff)](#) [![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)](#) [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff)](#) [![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)](#) [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff)](#) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#) [![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=fff)](#)
+
+**Databases (open source)**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 **Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)](#)
